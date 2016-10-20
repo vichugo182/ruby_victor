@@ -1,6 +1,7 @@
 variable = "false"
 otra_variable = "nil"
 
+
 case 
 when variable == "Algún texto"
 	puts "No es igual a Algún texto"
